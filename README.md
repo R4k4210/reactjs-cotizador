@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Descripción del Proyecto
 
 En este proyecto se realizó la práctica con los Styled Components usando @emotion/styled.
 Una herramienta muy util para estilizar componentes de forma práctica, mezclando HTML y CSS en un mismo archivo.
