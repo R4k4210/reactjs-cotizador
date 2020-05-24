@@ -2,6 +2,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+En este proyecto se realizó la práctica con los Styled Components usando @emotion/styled.
+Una herramienta muy util para estilizar componentes de forma práctica, mezclando HTML y CSS en un mismo archivo.
+Se crearon funciones en un archivo helper.js para realizar algunos calculos y tener lógica reutilizable.
+
+
+## Available Scripts
+
 In the project directory, you can run:
 
 ### `npm start`
